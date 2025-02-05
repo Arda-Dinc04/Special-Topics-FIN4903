@@ -7,3 +7,5 @@ ML_2023 is code relevant to the book (Aurélien-Géron-Hands...) in the main dir
 If you have trouble viewing certain texts or code use Anaconda's Jupyter notbook
 
 Case studies in the A'1-10' folders should be read before attempting to understand the Assignments
+
+The Class Syllabus has been added
